@@ -24,24 +24,42 @@ This repository is distributed under the terms of the **MIT License**.
 ## Challenges ##
 
 
-### Longest Word    ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [Longest Word](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/AlphabetSoup.py)  ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### First Factorial     ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [CheckNums](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/CheckNums.py)  ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### First Reverse     ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [ClosestEnemy.II](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/ClosestEnemyII.py)     ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### Find Intersection   ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [CorrectPath](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/CorrectPath.py)    ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### React Button Toggle ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [FirstFactorial](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/FirstFactorial.py)  ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### Question Marks ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [FirstReverse](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/FirstReverse.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### Codeland Username Validation  ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [LetterCapitalize](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/LetterCapitalize.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### Bracket Matcher ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [LetterChanges](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/LetterChanges.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### Tree Constructor ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [LongestWord](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/LongestWord.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg)
 
-### Min Window Substring [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)] https://github.com/)
+### [QuestionsMarks](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/QuestionsMarks.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
 
-### Bracket Combinations ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) (https://github.com/)
+### [ScaleBalancing](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/ScaleBalancing.py) ![Python](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)
+
+### [SimpleAdding](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/SimpleAdding.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [ChessboardTraveling](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/ChessboardTraveling.py)     ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [EightQueens](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/EightQueens.py)  ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [KaprekarsConstant](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/KaprekarsConstant.py)  ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [MaximalSquare](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/MaximalSquare.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [PentagonalNumber](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/PentagonalNumber.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [SimpleSymbols.py](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/SimpleSymbols.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
+
+### [TimeConvert](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/TimeConvert.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg)
+
+### [VowelSquare](https://github.com/w4lner/Coderbyte-Solutions/blob/main/Coderbyte-Solutions/VowelSquare.py) ![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg) 
